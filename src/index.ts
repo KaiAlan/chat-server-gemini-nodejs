@@ -2,7 +2,7 @@
 import * as dotenv from 'dotenv'
 import express from 'express'
 import cors from 'cors' 
-const { GoogleGenerativeAI } = require("@google/generative-ai")
+import { GoogleGenerativeAI } from "@google/generative-ai"
 
 
 
